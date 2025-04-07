@@ -5,7 +5,7 @@
 
 // using namespace std;
 
-float y_position = 0.0f; // posição inicial do quadrado no eixo y
+float y_position = 0.0f; 
 
 void display() {
     glClear(GL_COLOR_BUFFER_BIT);
